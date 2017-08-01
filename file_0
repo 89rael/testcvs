@@ -1,0 +1,7 @@
+// ejemplo de funcion en pseudocaodigo
+
+Funcion get_user(id:Entero): String
+      Imprimir1
+      IMprimir2
+      Imprimir2
+FIN_FUNCION
