@@ -2,6 +2,7 @@
 
 Funcion get_user(id:Entero): String
       Imprimir1
-      IMprimir2
       Imprimir2
+      Imprimir2
+      get_user
 FIN_FUNCION
