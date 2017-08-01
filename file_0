@@ -4,5 +4,6 @@ Funcion get_user(id:Entero): String
       Imprimir1
       Imprimir2
       Imprimir2
+      Imprimir5
       get_user
 FIN_FUNCION
